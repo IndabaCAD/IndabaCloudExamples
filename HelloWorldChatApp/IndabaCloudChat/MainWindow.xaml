@@ -1,0 +1,23 @@
+﻿<Window x:Class="IndabaCloudChat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="Name: " HorizontalAlignment="Right" VerticalAlignment="Center"/>
+        <ListView Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" ItemsSource="{Binding Path=ChatLines, Mode=OneWay}" />
+        <TextBox Grid.Row="0" Grid.Column="1" HorizontalAlignment="Stretch" Margin="5" Text="{Binding Path=Chatter, Mode=TwoWay}" />
+
+        <TextBlock Grid.Row="2" Grid.Column="0" Text="Message: " HorizontalAlignment="Right" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="2" Grid.Column="1" HorizontalAlignment="Stretch" Margin="5,5,100,5" Text="{Binding Path=ChatLine, Mode=TwoWay}"  />
+        <Button x:Name="btSent" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Right" Width="80" Margin="5" Content="Send" Command="{Binding Path=LineSentCommand}" />
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\bin\Debug\IndabaCloudChat.exe.config
+C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\bin\Debug\IndabaCloudChat.exe
+C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\bin\Debug\IndabaCloudChat.pdb
+C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\bin\Debug\AbService.Api.Common2.dll
+C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\bin\Debug\AbService.Api.Public.dll
+C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\bin\Debug\Newtonsoft.Json.dll
+C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\obj\Debug\IndabaCloudChat.csprojResolveAssemblyReference.cache
+C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\obj\Debug\MainWindow.baml
+C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\obj\Debug\MainWindow.g.cs
+C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\obj\Debug\App.g.cs
+C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\obj\Debug\IndabaCloudChat_MarkupCompile.cache
+C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\obj\Debug\IndabaCloudChat.g.resources
+C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\obj\Debug\IndabaCloudChat.Properties.Resources.resources
+C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\obj\Debug\IndabaCloudChat.csproj.GenerateResource.Cache
+C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\obj\Debug\IndabaCloudChat.exe
+C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\obj\Debug\IndabaCloudChat.pdb

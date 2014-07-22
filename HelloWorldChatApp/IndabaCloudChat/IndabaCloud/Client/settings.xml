@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!--  <Server>http://137.117.203.93:8000</Server> -->
+  <Server>http://localhost:8000</Server>
+  <ServiceName>AbRestService</ServiceName>
+</Settings>
