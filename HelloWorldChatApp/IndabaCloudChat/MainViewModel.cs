@@ -33,7 +33,7 @@ namespace IndabaCloudChat
 
             LineSentCommand = new RelayCommand(() =>
                 {
-                    man.InsertFeedEntry("chat","chatlines",Chatter == "" ? "anonymous" : Chatter,ChatLine);
+                    man.InsertFeedEntry("chatlines","chat",Chatter == "" ? "anonymous" : Chatter,ChatLine);
                     ChatLine = "";
                 });
         }
@@ -44,7 +44,7 @@ namespace IndabaCloudChat
                 await Task.Run(() =>
                     chats =
                         (List<AbFeedEntry>)
-                            man.GetAllFeedEntriesSince("chat","chatlines", _lastCheck.AddSeconds(0), 100));
+                            man.GetAllFeedEntriesSince("chatlines","chat", _lastCheck.AddSeconds(0), 100));
 
                 Application.Current.Dispatcher.BeginInvoke((Action)(() => chats.ForEach(
                     r => ChatLines.Add(string.Format("{0} {1}: {2}", r.LastModified,r.Key, r.Value)))));

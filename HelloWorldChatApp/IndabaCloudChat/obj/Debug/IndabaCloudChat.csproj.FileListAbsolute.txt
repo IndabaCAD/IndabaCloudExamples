@@ -14,3 +14,6 @@ C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloud
 C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\obj\Debug\IndabaCloudChat.csproj.GenerateResource.Cache
 C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\obj\Debug\IndabaCloudChat.exe
 C:\Private\Dev\IndabaCad\Git\V_1.0.3\IndabaCloud\IndabaCloudExamples\IndabaCloudChat\obj\Debug\IndabaCloudChat.pdb
+C:\Users\andries.NMM\Documents\GitHub\IndabaCloudExamples\HelloWorldChatApp\IndabaCloudChat\bin\Debug\IndabaCloudChat.exe.config
+C:\Users\andries.NMM\Documents\GitHub\IndabaCloudExamples\HelloWorldChatApp\IndabaCloudChat\obj\Debug\IndabaCloudChat.exe
+C:\Users\andries.NMM\Documents\GitHub\IndabaCloudExamples\HelloWorldChatApp\IndabaCloudChat\obj\Debug\IndabaCloudChat.pdb
